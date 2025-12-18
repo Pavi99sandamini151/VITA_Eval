@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+trulens
+trulens-providers-google
+google-generativeai
+streamlit
